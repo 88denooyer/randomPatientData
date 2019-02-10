@@ -1,4 +1,8 @@
 /*
+ * IGNORE ALL OF THE GARBAGE COMMENTS THAT WERE USED
+ * TO FIGURE OUT HOW TO DO THIS
+ *
+ *
  * the whole JSON is gonna be the variable object
  * using pain and flex variables as a placeholder
  * createIndex creates n number of "users"
